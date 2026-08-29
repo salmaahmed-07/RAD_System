@@ -1,0 +1,10 @@
+# Environment files
+.env
+kpi.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/

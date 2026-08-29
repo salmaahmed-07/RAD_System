@@ -1,0 +1,41 @@
+# Telecom Egypt Bill Payment Methods
+
+There are several ways to pay your Telecom Egypt (WE) bill:
+
+## 1. Online Payment
+- Visit the official WE website at te.eg
+- Log in to your account
+- Navigate to the billing section
+- Enter your payment details and confirm
+
+## 2. Mobile App
+- Download the WE Pay app from the App Store or Google Play
+- Register or log in
+- Select "Pay Bill"
+- Choose your payment method and confirm
+
+## 3. Fawry Services
+- Visit any Fawry outlet
+- Provide your WE account number
+- Pay the amount in cash
+
+## 4. Bank Transfer
+- Transfer the amount to WE's bank account
+- Include your account number as reference
+- Allow 1-2 business days for processing
+
+## 5. ATM Payment
+- Use any ATM with bill payment feature
+- Select Telecom Egypt as the service provider
+- Enter your account number and payment amount
+
+## 6. WE Stores
+- Visit any Telecom Egypt branch
+- Pay your bill in person
+- Available at all governorates
+
+## Contact Information
+For help with bill payment:
+- Customer Service: 166
+- Website: te.eg
+- App: WE Pay
